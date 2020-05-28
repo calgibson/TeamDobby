@@ -1,2 +1,2 @@
-#Gas analysis project
-Jupyter notebook files with findings
+####Gas analysis project
+ - Jupyter notebook files with findings
